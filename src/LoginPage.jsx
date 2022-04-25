@@ -1,5 +1,6 @@
 import React from 'react';
-import { Layout, Button, Input, Icon, Form, Row, Col, Card } from 'antd';
+import { Layout, Button, Input, Form, Row, Col, Card } from 'antd';
+import { Icon } from '@ant-design/compatible';
 import { ReactComponent as Logo } from './assets/twilio-mark-red.svg';
 
 const { Content } = Layout;

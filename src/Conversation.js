@@ -3,7 +3,8 @@ import './assets/Conversation.css';
 import MessageBubble from './MessageBubble'
 import Dropzone from 'react-dropzone';
 import styles from './assets/Conversation.module.css'
-import {Button, Form, Icon, Input} from "antd";
+import {Button, Form, Input} from "antd";
+import { Icon } from '@ant-design/compatible';
 import ConversationsMessages from "./ConversationsMessages";
 import PropTypes from "prop-types";
 
